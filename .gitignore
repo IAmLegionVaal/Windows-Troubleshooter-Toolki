@@ -1,0 +1,28 @@
+# Generated logs and diagnostic output
+*.log
+*.etl
+*.evtx
+*.dmp
+*.tmp
+*.bak
+*.csv
+Reports/
+Logs/
+Output/
+
+# Local/editor files
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PowerShell analysis/cache files
+PSScriptAnalyzerSettings.local.psd1
+*.clixml
+
+# Archives generated for distribution
+*.zip
+*.7z
+*.rar
